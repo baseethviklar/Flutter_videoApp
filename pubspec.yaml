@@ -1,0 +1,41 @@
+name: flutter_video_app
+description: A responsive Flutter app that fetches and displays videos with like functionality.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+ 
+  # State management
+  provider: ^6.0.3
+  
+  # HTTP requests
+  http: ^0.13.5
+  
+  # Firebase
+  firebase_core: ^2.4.0
+  cloud_firestore: ^4.3.0
+  
+  # Local database
+  sqflite: ^2.2.2
+  path: ^1.8.2
+  
+  # Video player
+  video_player: ^2.4.7
+  
+  # UI components
+  cupertino_icons: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.1
+
+flutter:
+  uses-material-design: true
+
+
