@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCZ8B0-2u7Qc7MfcDX5Dvv74P56fIt0z_E',
+    apiKey: '',
     appId: '1:754114066705:ios:84e1a9e406fb148f2734b0',
     messagingSenderId: '754114066705',
     projectId: 'flutter-video-explorer',
@@ -68,7 +68,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCZ8B0-2u7Qc7MfcDX5Dvv74P56fIt0z_E',
+    apiKey: '',
     appId: '1:754114066705:ios:84e1a9e406fb148f2734b0',
     messagingSenderId: '754114066705',
     projectId: 'flutter-video-explorer',
@@ -77,7 +77,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCrF-P6-odqL8fKDvjSabPD48dhE7Ggn5Q',
+    apiKey: '',
     appId: '1:754114066705:web:4bc85e1826082e252734b0',
     messagingSenderId: '754114066705',
     projectId: 'flutter-video-explorer',
