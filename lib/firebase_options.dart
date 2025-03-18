@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAzXv9Vd_vado2UMFM2hK567AApUbp7-u4',
+    apiKey: '',
     appId: '1:754114066705:android:57722612fe21363d2734b0',
     messagingSenderId: '754114066705',
     projectId: 'flutter-video-explorer',
